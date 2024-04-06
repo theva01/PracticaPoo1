@@ -1,0 +1,10 @@
+C:\Users\eva_01\source\repos\PracticaPoo1\PracticaPoo1\bin\Debug\PracticaPoo1.exe.config
+C:\Users\eva_01\source\repos\PracticaPoo1\PracticaPoo1\bin\Debug\PracticaPoo1.exe
+C:\Users\eva_01\source\repos\PracticaPoo1\PracticaPoo1\bin\Debug\PracticaPoo1.pdb
+C:\Users\eva_01\source\repos\PracticaPoo1\PracticaPoo1\obj\Debug\PracticaPoo1.csproj.AssemblyReference.cache
+C:\Users\eva_01\source\repos\PracticaPoo1\PracticaPoo1\obj\Debug\PracticaPoo1.Form1.resources
+C:\Users\eva_01\source\repos\PracticaPoo1\PracticaPoo1\obj\Debug\PracticaPoo1.Properties.Resources.resources
+C:\Users\eva_01\source\repos\PracticaPoo1\PracticaPoo1\obj\Debug\PracticaPoo1.csproj.GenerateResource.cache
+C:\Users\eva_01\source\repos\PracticaPoo1\PracticaPoo1\obj\Debug\PracticaPoo1.csproj.CoreCompileInputs.cache
+C:\Users\eva_01\source\repos\PracticaPoo1\PracticaPoo1\obj\Debug\PracticaPoo1.exe
+C:\Users\eva_01\source\repos\PracticaPoo1\PracticaPoo1\obj\Debug\PracticaPoo1.pdb
