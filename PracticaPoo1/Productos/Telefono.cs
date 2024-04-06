@@ -42,9 +42,12 @@ namespace Productos
             System.Windows.Forms.MessageBox.Show("Mi celular es un: "+ marca + " es color: "+color+" es de tipo: "+tipo);
         }
 
-        public void MandarMensaje()
+        public string MandarMensaje(string nombre, string mensaje)
         {
-
+            string n = nombre;
+            string m = mensaje;
+            string Enviando = "El mensaje: " + m + ", enviado por: " + n;
+            return Enviando;
         }
 
     }

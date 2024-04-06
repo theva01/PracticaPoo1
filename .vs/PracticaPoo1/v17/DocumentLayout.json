@@ -7,6 +7,10 @@
       "RelativeMoniker": "D:0:0:{1F0A8BD5-A74D-4E77-8F36-FC2D1E49EA98}|PracticaPoo1\\PracticaPoo1.csproj|solutionrelative:practicapoo1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{1F0A8BD5-A74D-4E77-8F36-FC2D1E49EA98}|PracticaPoo1\\PracticaPoo1.csproj|c:\\users\\eva_01\\source\\repos\\practicapoo1\\practicapoo1\\productos\\operaciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F0A8BD5-A74D-4E77-8F36-FC2D1E49EA98}|PracticaPoo1\\PracticaPoo1.csproj|solutionrelative:practicapoo1\\productos\\operaciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{1F0A8BD5-A74D-4E77-8F36-FC2D1E49EA98}|PracticaPoo1\\PracticaPoo1.csproj|C:\\Users\\eva_01\\source\\repos\\PracticaPoo1\\practicapoo1\\productos\\telefono.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1F0A8BD5-A74D-4E77-8F36-FC2D1E49EA98}|PracticaPoo1\\PracticaPoo1.csproj|solutionrelative:practicapoo1\\productos\\telefono.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -22,8 +26,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Operaciones.cs",
+              "DocumentMoniker": "C:\\Users\\eva_01\\source\\repos\\PracticaPoo1\\PracticaPoo1\\Productos\\Operaciones.cs",
+              "RelativeDocumentMoniker": "PracticaPoo1\\Productos\\Operaciones.cs",
+              "ToolTip": "C:\\Users\\eva_01\\source\\repos\\PracticaPoo1\\PracticaPoo1\\Productos\\Operaciones.cs",
+              "RelativeToolTip": "PracticaPoo1\\Productos\\Operaciones.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T17:24:05.84Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -32,27 +49,27 @@
               "RelativeDocumentMoniker": "PracticaPoo1\\Form1.cs",
               "ToolTip": "C:\\Users\\eva_01\\source\\repos\\PracticaPoo1\\PracticaPoo1\\Form1.cs",
               "RelativeToolTip": "PracticaPoo1\\Form1.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAeAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAABSAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-05T23:51:36.079Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Telefono.cs",
               "DocumentMoniker": "C:\\Users\\eva_01\\source\\repos\\PracticaPoo1\\PracticaPoo1\\Productos\\Telefono.cs",
               "RelativeDocumentMoniker": "PracticaPoo1\\Productos\\Telefono.cs",
               "ToolTip": "C:\\Users\\eva_01\\source\\repos\\PracticaPoo1\\PracticaPoo1\\Productos\\Telefono.cs",
               "RelativeToolTip": "PracticaPoo1\\Productos\\Telefono.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAxwCMAAAAWAAAA",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAADEAAAAcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-05T23:44:42.251Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "C:\\Users\\eva_01\\source\\repos\\PracticaPoo1\\PracticaPoo1\\Form1.cs",
               "RelativeDocumentMoniker": "PracticaPoo1\\Form1.cs",
