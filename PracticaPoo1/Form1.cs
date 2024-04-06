@@ -14,9 +14,7 @@ namespace PracticaPoo1
 {
     public partial class Form1 : Form
     {
-        Telefono Movistar = new Telefono();//Se creo el objeto
-        //Telefono Claro = new Telefono("Samsung");
-        //Telefono Wom = new Telefono("Motorola", "blanco", "mecanico");
+        Persona p = new Persona();
         public Form1()
         {
             InitializeComponent();
@@ -29,11 +27,9 @@ namespace PracticaPoo1
 
         private void btnLlamar_Click(object sender, EventArgs e)
         {
-            //Movistar.llamar();
-            //MessageBox.Show(Movistar.MandarMensaje("Anderson", "mucha suerte"));
-            MessageBox.Show(Operaciones.Suma(33, 77).ToString());
-
-
+            p.Pais = "Costa Rica";
+            p.Id = "106444332";
+            MessageBox.Show(p.Pais +" con ID: "+ p.Id);
         }
     }
 }
